@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
 
-interface IcryptoDevs {
+interface ICryptoDevs {
 
      /**
      * @dev Returns a token ID owned by `owner` at a given `index` of its token list.
